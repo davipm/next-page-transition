@@ -1,0 +1,19 @@
+{
+  "name": "next-page-transition",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "next build && next export"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "framer-motion": "^1.11.1",
+    "next": "9.4.4",
+    "node-sass": "^4.14.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
